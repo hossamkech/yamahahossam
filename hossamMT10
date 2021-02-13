@@ -1,0 +1,57 @@
+<!Doctype html>
+<html>
+<head>
+<title>hossam site web </title>
+<body>
+<font color="blue" size="40"> <b><i>yamaha </i>mt10</b> </font>
+<br>
+<img src="https://www.motoplanete.com/yamaha/Yamaha-1000-MT-10-2020.jpg">
+</br>
+<ol type=I>
+<li>fiche technique
+<ol type= 1>
+<li><font color="red"> CHASSIS </font>
+<br>
+<ul type="square">
+<li>Cadre : périmétrique en alu
+<li>Réservoir : 17 litres
+<li>Hauteur de selle : 825 mm
+<li>Longueur : 2 095 mm
+<li>Largeur : 800 mm
+<li>Hauteur : 1 110 mm
+<li>Empattement : 1 400 mm
+<li>Poids en ordre de marche : 210 kg
+</br>
+</ul>
+<li><font color="red"> TRAIN AVANT </font>
+<ul type="square">
+<li>Fourche téléhydraulique inversée Ø 43 mm, déb : 120 mm
+<li>2 disques Ø 320 mm, étriers radiaux 4 pistons
+<li>Roue AV : 120 / 70 - 17
+</ul>
+<li><font color="red">TRAIN ARRIÈRE </font>
+<ul type="square">
+<li>Mono-amortisseur, déb : 120 mm
+<li>1 disque Ø 220 mm, étrier 1 piston
+<li>Roue AR : 190 / 55 - 17
+</ul>
+<li><font color="red">TRANSMISSION </font>
+Boite à 6 rapports secondaire par chaine
+<li><font color="red">MOTEUR </font>
+<ul type="square">
+<li>4 Cylindres en ligne , 4 temps
+<li>Refroidissement : liquide
+<li>injection Ø nc
+<li>2 ACT
+<li>4 soupapes par cylindre
+<li>998 cc (79 x 50.9 mm)
+<li>160 ch à 11 500 tr/min
+<li>11,30 mkg à 9 000 tr/min
+<li>Compression : 12 : 1
+</ul>
+</ol>
+<li>essai
+<div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mUlODbRwDJM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+</html>
